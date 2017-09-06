@@ -1,0 +1,170 @@
+    {
+        "1": {
+            "q": "Given that  y = A [(2π/λ)(ct-x)] where y and x are measured in meter. Which of the following statements is true?",
+            "1": "The unit of  λ is same as that of x and A.",
+            "2": "The unit of  λ is same as that of x but not of A.",
+            "3": "The unit of c is same as that of 2π/λ.",
+            "4": "The unit of  (ct –x) is same as that of 2π/λ",
+            "a": "1"
+        },
+        "2": {
+            "q": "If the unit of force and length are doubled, the unit of energy will be ",
+            "1": "1 /4 times the original ",
+            "2": "1 /2 times the original ",
+            "3": "2 times the original ",
+            "4": "4 times the original",
+            "a": "4"
+        },
+        "3": {
+            "q": "The equation of state of some gases can be expressed as (p+a/V^2 )(V-b)=RT where, p is absolute the pressure, V is the volume, T is absolute temperature and a and b are constants. The dimensional formula of a is ",
+            "1": "[ML5T-2]",
+            "2": "[M-1L5T-2]",
+            "3": "[ML-1T-2]",
+            "4": "[ML-5T-2]",
+            "a": "1"
+        },
+        "4": {
+            "q": "Which two of the following five physical parameters have the same dimensions? (1) Energy density (2) Refractive index (3) Dielectric constant  (4) Young’s modulus (5) Magnetic field",
+            "1": "2 and 4",
+            "2": "3 and 5",
+            "3": "1 and 4 ",
+            "4": "1 and 5",
+            "a": "3"
+        },
+        "5": {
+            "q": "The speed of light c, gravitational constant G and Planck’s constant h are taken as fundamental units in a system. The dimensions of time in this new system.",
+            "1": "[G 1/2h1/2c-5/2]",
+            "2": "[G -1/2h1/2c1/2]",
+            "3": "[G 1/2h1/2c-3/2]",
+            "4": "[G 1/2h1/2c1/2]",
+            "a": "1"
+        },
+        "6": {
+            "q": "Question",
+            "1": "A(iv)-B(iii)-C(ii)-D(i)",
+            "2": "A(ii)-B(i)-C(iii)-D(iv)",
+            "3": "A(iii)-B(ii)-C(i)-D(iv)",
+            "4": "A(iii)-B(iv)-C(i)-D(ii)",
+            "a": "4"
+        },
+        "7": {
+            "q": "The dimensions of a/b in the equation p=〖a-t〗^2/bx, where p is pressure, x is distance and t is time, are ",
+            "1": "[M2LT-3]",
+            "2": "[MT-2]]",
+            "3": "[LT-3]",
+            "4": "[ML-3T-1]",
+            "a": "4"
+        },
+        "8": {
+            "q": "Percentage error in the measurement of mass and speed are 2 % and 3% respectively. The error in the estimation of kinetic energy obtained by measuring mass and speed will be",
+            "1": "12%",
+            "2": "10%",
+            "3": "2%",
+            "4": "8%",
+            "a": "4"
+        },
+        "9": {
+            "q": "If radius of the sphere is (5.3 ±0.1) cm. Then percentage error in its volume will be ",
+            "1": "3+6.01×100/5.3",
+            "2": "1/3+0.01×100/5.3",
+            "3": "(3×0.1)/5.3)×100",
+            "4": "0.1/5.3×100",
+            "a": "3"
+        },
+        "10": {
+            "q": "An experiment measures quantities a, b and c and X is calculated from the formula X=〖ab〗^2/c^3  if the percentage error in a, b and c are ± 1 % , ± 3% and ±2% respectively. The percentage error in X will be",
+            "1": "±13%",
+            "2": "±7%",
+            "3": "±4%",
+            "4": "±1%",
+            "a": "1"
+        },
+        "11": {
+            "q": "Which has not the same unit as other?",
+            "1": "Watt-see",
+            "2": "Kilowatt-hour",
+            "3": "eV",
+            "4": "Js",
+            "a": "4"
+        },
+        "12": {
+            "q": "The dimensional formula for the magnetic field is ",
+            "1": "[MT-2A- 1]",
+            "2": "[ML2T-1A- 2]",
+            "3": "[MT-2A- 2] ",
+            "4": "[MT-1A- 2]",
+            "a": "4"
+        },
+        "13": {
+            "q": "Given, Force =α/〖density + β〗^3   What are the dimensions of  , ",
+            "1": "[MT2A- 2], [MT- 1/3] ",
+            "2": "The unit of  λ is same as that of x but not of A.",
+            "3": "The unit of c is same as that of 2π/λ.",
+            "4": "The unit of  (ct –x) is same as that of 2π/λ",
+            "a": "1"
+        },
+        "14": {
+            "q": "If the unit of force and length are doubled, the unit of energy will be ",
+            "1": "1 /4 times the original ",
+            "2": "1 /2 times the original ",
+            "3": "2 times the original ",
+            "4": "4 times the original",
+            "a": "4"
+        },
+        "15": {
+            "q": "The equation of state of some gases can be expressed as (p+a/V^2 )(V-b)=RT where, p is absolute the pressure, V is the volume, T is absolute temperature and a and b are constants. The dimensional formula of a is ",
+            "1": "[ML5T-2]",
+            "2": "[M-1L5T-2]",
+            "3": "[ML-1T-2]",
+            "4": "[ML-5T-2]",
+            "a": "1"
+        },
+        "16": {
+            "q": "Given that  y = A [(2π/λ)(ct-x)] where y and x are measured in meter. Which of the following statements is true?",
+            "1": "The unit of  λ is same as that of x and A.",
+            "2": "The unit of  λ is same as that of x but not of A.",
+            "3": "The unit of c is same as that of 2π/λ.",
+            "4": "The unit of  (ct –x) is same as that of 2π/λ",
+            "a": "1"
+        },
+        "17": {
+            "q": "If the unit of force and length are doubled, the unit of energy will be ",
+            "1": "1 /4 times the original ",
+            "2": "1 /2 times the original ",
+            "3": "2 times the original ",
+            "4": "4 times the original",
+            "a": "4"
+        },
+        "18": {
+            "q": "The equation of state of some gases can be expressed as (p+a/V^2 )(V-b)=RT where, p is absolute the pressure, V is the volume, T is absolute temperature and a and b are constants. The dimensional formula of a is ",
+            "1": "[ML5T-2]",
+            "2": "[M-1L5T-2]",
+            "3": "[ML-1T-2]",
+            "4": "[ML-5T-2]",
+            "a": "1"
+        },
+        "19": {
+            "q": "Which two of the following five physical parameters have the same dimensions? (1) Energy density (2) Refractive index (3) Dielectric constant  (4) Young’s modulus (5) Magnetic field",
+            "1": "2 and 4",
+            "2": "3 and 5",
+            "3": "1 and 4 ",
+            "4": "1 and 5",
+            "a": "3"
+        },
+        "20": {
+            "q": "Given that  y = A [(2π/λ)(ct-x)] where y and x are measured in meter. Which of the following statements is true?",
+            "1": "The unit of  λ is same as that of x and A.",
+            "2": "The unit of  λ is same as that of x but not of A.",
+            "3": "The unit of c is same as that of 2π/λ.",
+            "4": "The unit of  (ct –x) is same as that of 2π/λ",
+            "a": "1"
+        },
+        "21": {
+            "q": "If the unit of force and length are doubled, the unit of energy will be ",
+            "1": "1 /4 times the original ",
+            "2": "1 /2 times the original ",
+            "3": "2 times the original ",
+            "4": "4 times the original",
+            "a": "4"
+        }
+    }
